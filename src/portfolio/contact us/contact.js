@@ -19,7 +19,7 @@ export function Contact()
                         <a href=""><i class="fa-brands fa-github" ></i></a>
                     </div>
                 </div>
-                <div class="contactRight">
+                <div class="contactRight mt-5 pt-3">
                     <form>
                         <input type="text" placeholder="Your Name" required/>
                         <input type="email" placeholder="Your Email" className='my-3' required/>
