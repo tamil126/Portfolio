@@ -1,7 +1,7 @@
 import React from 'react';
-import { Navbar } from '../menu/navbar';
+import { Navbar } from '../menu/navbar';            
 
-export function Certification() {
+export function Certification() {   
     return (
         <>
             <Navbar />

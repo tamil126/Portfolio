@@ -5,7 +5,7 @@ export function Qualification() {
     return (
         <>
             <Navbar />
-            <div class="tabContents mt-5 ps-5" id="qualification">
+            <div class="tabContents mt-4 ps-5" id="qualification">
                 <h1 className='text-danger'>QUALIFICATION</h1>
                 <ul className='ps-5'>
                     <li className='mt-3 pt-5'><span>2020</span><br />B.Sc Computer Science with 73%<br />Sri Ramakrishna Mission Vidyalaya College of Arts and Science</li>
